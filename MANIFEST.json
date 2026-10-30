@@ -1,0 +1,54 @@
+{
+  "format": 1,
+  "scope": "Every package file except MANIFEST.json itself",
+  "files": {
+    "README.md": {
+      "sha256": "04b28610d07595541d9a5ee4ce430d8323ad2994b606c365e6a31521d20ec6fa",
+      "bytes": 11285
+    },
+    "REVIEW-additions.md": {
+      "sha256": "a8725ba93d00c37bcf6cbf944523576807ebdd88e600096658c30dfcaf152a33",
+      "bytes": 3722
+    },
+    "REVIEW.md": {
+      "sha256": "1e91b3b7b00e1ffd847c8a5cc594bab0a8ecf0e2b3d1b00c973eb723f57bf9ca",
+      "bytes": 5935
+    },
+    "scripts/mutation_check.py": {
+      "sha256": "3360957ca44eab46c6e29c25bdfc44b61dfcb8a54b3ea0783ca81d5411412150",
+      "bytes": 8495
+    },
+    "scripts/test_work_check.py": {
+      "sha256": "39fc964bde0215ac1bed08f57d8180e7b715d7d512b2d3b4b52fafb9ddbeab53",
+      "bytes": 41557
+    },
+    "scripts/work-check.py": {
+      "sha256": "fcaa5a7119c0f7a8d152ad865590e3a49b3951c62389be03c03dfc69a82eb2d9",
+      "bytes": 32796
+    },
+    "SKILL.md": {
+      "sha256": "67e02af49efa679a916a32fa0e534b75826196bc290e542c6f3c046b58d9f196",
+      "bytes": 4917
+    },
+    "SOURCES.md": {
+      "sha256": "5f14f60bebf244cefd7100ff685e6717c675b5328fdb195177682a16f8ca9172",
+      "bytes": 8937
+    },
+    "templates/AGENTS.md": {
+      "sha256": "6fc376548eaa50bfd3ae23de8cb92a49ad8c0232d64ab883193d001964ccf64d",
+      "bytes": 15612
+    },
+    "templates/WORK-lite.md": {
+      "sha256": "d6f31ce252e2263b4ab45ae82ba39a981eecfb8f9a2c030d7d0b29010877dec8",
+      "bytes": 1551
+    },
+    "templates/WORK.md": {
+      "sha256": "658a3abf0e5610966a3ea0e0e2e480f07edad4aac1b4f4f8a02cf65b1dbd1b71",
+      "bytes": 3667
+    },
+    "VALIDATION.md": {
+      "sha256": "28d2ea0a5dc7a9e728435d7d7cefc81887db5dafd1a5802a9cd5c3bcba85ad4d",
+      "bytes": 14109
+    }
+  }
+}
