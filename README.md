@@ -6,7 +6,7 @@ This is an original synthesis of Matt Pocock's skills and Poteto's pstack/interv
 
 ## The loop
 
-**Orient -> clarify -> choose a verifiable slice -> build -> verify independently -> checkpoint -> continue.
+**Orient -> clarify -> choose a verifiable slice -> build -> verify independently -> checkpoint -> continue.**
 
 ## Two maintained files per repository
 
